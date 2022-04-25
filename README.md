@@ -5,7 +5,6 @@
   - codingbat: https://codingbat.com/python
   - codewars: https://www.codewars.com
 
-Youtube Videos
-================
+### Youtube Videos
 
 - Python & MySQL Crash Course: https://www.youtube.com/watch?v=BHwgnGEhYG8 (Traversy Media)
