@@ -8,3 +8,4 @@
 ### Youtube Videos
 
 - Python & MySQL Crash Course: https://www.youtube.com/watch?v=BHwgnGEhYG8 (Traversy Media)
+- SQLite Databases With Python - Full Course: https://www.youtube.com/watch?v=byHcYRpMgI4 (freeCodeCamp)
